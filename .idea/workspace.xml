@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2928c90-1245-47e0-b261-923c74bf8760" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ant_ant_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_floragunn_search_guard_6_6_1_3_22_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_floragunn_search_guard_ssl_6_1_3_25_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spullara_mustache_java_compiler_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vividsolutions_jts_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_xiaoleilu_hutool_2_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_cssparser_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_core_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_smartcn_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spellchecker_3_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpg_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_core_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_11_v20150529.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_6_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_transport_6_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_jna_4_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_lang_mustache_client_6_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_6_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_percolator_client_6_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_reindex_client_6_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_transport_netty4_client_6_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_securesm_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_locationtech_spatial4j_spatial4j_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_31_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_wltea_analyzer_ik_analyzer_2012FF_u1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/ai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/getTopTermIndex/_0.cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/getTopTermIndex/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/getTopTermIndex/_0.si" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/getTopTermIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/getTopTermIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/testindex/_3.cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/testindex/_3.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/testindex/_3.si" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/testindex/_3_1.liv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/testindex/segments_6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/testindex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/HikariCP-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/druid.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/elasticsearch-sql-6.1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs-ERROR_2019-03-12_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs-ERROR_2019-03-13_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs-ERROR_2019-03-14_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs-ERROR_2019-03-15_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs-ERROR_2019-03-22_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs-ERROR_2019-03-24_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-12_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-13_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-14_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-14_2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-15_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-22_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-24_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-25_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-25_2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-25_3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-25_4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-25_5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-25_6.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-25_7.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-25_8.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-03-25_9.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-04-21_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-04-27_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-05-04_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-05-06_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-05-12_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-05-26_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-06-08_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/cnblogs_2019-06-09_1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/cnblogs-ALL.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/cnblogs-ERROR.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/cnblogs-FATAL.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/cnblogs.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/algorithm_demo/MinHeap_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/lock_demo/AtomicIntegerAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/lock_demo/CountDownLatchAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/lock_demo/CyclicBarrierAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/lock_demo/ExchangerAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/lock_demo/ReadWriteLockAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/lock_demo/ReentrantLockAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/lock_demo/SemapphoreAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/queue_demo/ArrayBlockingQueueAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/queue_demo/DelayQueueAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/queue_demo/DelayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/queue_demo/LinkedBlockingQueueAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/queue_demo/PriorityBlockingQueueAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/queue_demo/SynchronousQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/queue_demo/TemporaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/synchronized_static_demo/SynchronizedStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/concurrent_demo/thread_demo/ThreadPoolAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/elasticsearch_demo/modeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/EsApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_Kerberos_Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_Kerberos_HikariCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_NoAuthc_Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_SSL_Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/MyElasticSearchConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/analyzer/ExtDicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/analyzer/IkVSSmartcn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/analyzer/StdAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/analyzer/VariousAnalyzers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/ik/IkAnalyzer6x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/ik/IkTokenizer6x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/index/CreateIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/index/DeleteIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/index/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/index/UpdateIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/queries/GetTopTerms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/queries/QueryParseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/config/RedisConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Object_Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Pub_Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_ZSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoHashImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoKeyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoObjectByteImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoPubSubImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoServerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoSetImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoStringImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoZSetImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/client/PubClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/client/SubClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/client/SubClient_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/handler/listener/RedisMessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/handler/listener_topic_handler/SubListenerTopicHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/handler/message_handler/MessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/handler/message_handler/impl/MessageHandlerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/pub/PubHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/sub/SubHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/sub/SubHandler_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/pub_sub/testPubSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/HashTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/KeyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/Object_ByteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/Pub_SubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/ZSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/tempObject/tmpObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/DataTypeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/EhCacheUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/FileValidateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/HttpClientResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/HttpClientUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/HttpConnectionManager4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/HttpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/HttpsPoster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/KryoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/MD5Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/MathHepler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/MyAuthenticator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/PDFUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/PropertiesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/RsaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/ServerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/SessionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/SpringBeanUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/SpringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/ValidateCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/WebUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/ase/EncryptUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/ase/TestApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/CommonBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/PlayListAndUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/PlayListResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163SongList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163_Ajax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/MusicParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/MusicUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/util/CallJsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/util/Param_JsLogicTranJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tauriel/demo/xml_demo/Sax_Xml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ext.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ext_stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/core_8382a9a6e7821140e028c01733ddc5e2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/kirk-keystore.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/krb5.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/krb5.keytab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/redis-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/truststore.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tauriel/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/tauriel-project-demo.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tarena/lock/CountDownLatchAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tarena/lock/Horse1Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/tarena/lock/Horse2Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/algorithm_demo/MinHeap_demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/Add1Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/Add2Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/AtomicIntegerAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/CyclicBarrierAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/ExchangerAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/Horse1Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/Horse2Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/ReadWriteLockAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/ReentrantLockAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/SemapphoreAPITest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/SemapphoreAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/Spy1Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/Spy2Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/sych1Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/sych2Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/sych3Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/lock_demo/sych4Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/ArrayBlockingQueueAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/DelayQueueAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/DelayQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/EndExam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/LinkedBlockingQueueAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/PriorityBlockingQueueAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/SynchronousQueueDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/SynchronousQueueDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/SynchronousQueueDemo$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/SynchronousQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/queue_demo/TemporaryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/synchronized_static_demo/SynchronizedStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/synchronized_static_demo/ThreadA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/synchronized_static_demo/ThreadB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/concurrent_demo/thread_demo/ThreadPoolAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/elasticsearch_demo/modeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/EsApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/JdbcTest_Kerberos_Druid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/JdbcTest_Kerberos_HikariCP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/JdbcTest_NoAuthc_Druid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/JdbcTest_SSL_Druid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchConnection$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource$CreateConnectionTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource$CreateConnectionThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource$DestroyConnectionThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource$DestroyTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource$LogStatsThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSourceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/lucence_demo/analyzer/ExtDicTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/lucence_demo/analyzer/StdAnalyzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/lucence_demo/analyzer/VariousAnalyzers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/lucence_demo/ik/IkAnalyzer6x.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/lucence_demo/ik/IkTokenizer6x.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/lucence_demo/index/CreateIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/lucence_demo/index/News.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/lucence_demo/index/UpdateIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/config/RedisConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao_Hash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao_Key.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao_List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao_Object_Byte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao_Pub_Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao_Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao_Set.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/RedisDao_ZSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoHashImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoKeyImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoKeyImpl$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoKeyImpl$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoKeyImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoListImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoListImpl$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoListImpl$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoListImpl$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoListImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoObjectByteImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoPubSubImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoPubSubImpl$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoPubSubImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoServerImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoServerImpl$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoServerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoSetImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoStringImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoStringImpl$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoStringImpl$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoStringImpl$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoStringImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/dao/impl/RedisDaoZSetImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/client/PubClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/client/SubClient$WarnEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/client/SubClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/client/SubClient_2$WarnEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/client/SubClient_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/handler/listener/RedisMessageListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/handler/listener_topic_handler/SubListenerTopicHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/handler/message_handler/MessageHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/handler/message_handler/impl/MessageHandlerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/pub/PubHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/sub/SubHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/sub/SubHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/sub/SubHandler_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/pub_sub/testPubSub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/HashTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/KeyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/ListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/Object_ByteTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/Pub_SubTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/Pub_SubTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/Pub_SubTest$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/Pub_SubTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/SetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/StringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/ZSetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/redis_demo/test/tmp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/tempObject/tmpObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/CookieUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/DataTypeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/EhCacheUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/FileValidateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpClientResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpClientUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpConnectionManager4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpConnectionManager4$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpConnectionManager4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpsPoster$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpsPoster$MyHostnameVerifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpsPoster$SavingTrustManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/HttpsPoster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/JsonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/KryoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/MD5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/MathHepler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/MyAuthenticator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/PDFUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/PropertiesUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/RedisUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/RsaUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/ServerUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/SessionUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/SpringBeanUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/SpringUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/ValidateCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/WebUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/util/WebUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/ase/EncryptUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/ase/TestApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/bean/CommonBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/bean/Creator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/bean/PlayListAndUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/bean/PlayListResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/bean/Playlist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/business/Music163SongList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/business/Music163UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/business/Music163_Ajax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/business/MusicParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/business/MusicUrl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/util/CallJsUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/web_crawlers_demo/util/Param_JsLogicTranJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/xml_demo/SAXDemoHandel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tauriel/demo/xml_demo/Sax_Xml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ext.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ext_stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/js/core_be75dbf537ca3df3efc2b7b7e7b6336d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/js/core_e78e2691444263ec4be54bdc77c07431.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/kirk-keystore.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/krb5.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/krb5.keytab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/redis-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/truststore.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/tauriel/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tauriel-project-demo.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/MusicUrl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/MusicParam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="5" column="117" selection-start-line="5" selection-start-column="117" selection-end-line="5" selection-end-column="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163UserInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163SongList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/Playlist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/PlayListAndUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding>
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/CommonBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/PlayListResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/Creator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+              <folding>
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BEFORE</find>
+      <find>for (var c = a.length, e = [], j = 0; j &lt; c; j += 2) e[j &gt;&gt;&gt; 3] |= parseInt(a.substr(j, 2), 16) &lt;&lt; 24 - 4 * (j % 8);</find>
+      <find>jdbc:mysql</find>
+      <find>ext.dic</find>
+      <find>IKAnalyzer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/js/core_1c82083c4e2d59f4a40f34b63de29546.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/core_6439037e884f2679ce88e5e647985a2c.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/core_2699fa174737798914d3116b872db2ea.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/HttpRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/job/ScheduleUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/job/ScheduleExecute.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/ClassUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/FileValidateUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/DataTypeUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/PDFUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/ShiroUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/util/WebUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/core_be75dbf537ca3df3efc2b7b7e7b6336d.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/analyzer/IkVSSmartcn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/index/CreateIndex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/analyzer/ExtDicTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/ik/IkAnalyzer6x.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/lucence_demo/ik/IkTokenizer6x.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/xml_demo/Sax_Xml.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Object_Byte.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoObjectByteImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/tmp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoHashImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Hash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/HashTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_String.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoStringImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Set.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoSetImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoListImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_List.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoKeyImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Key.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_ZSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoZSetImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163SongComment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163SongDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163_Ajax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/PlayListAndUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163SongList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163SongLyric.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163UserInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/core_8382a9a6e7821140e028c01733ddc5e2.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/MusicUrl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/MusicParam.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tauriel-project-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tauriel-project-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tauriel-project-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tauriel-project-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tauriel-project-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tauriel-project-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tauriel-project-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tauriel-project-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tauriel-project-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tauriel-project-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tauriel-project-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tauriel-project-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tauriel-project-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tauriel-project-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tauriel-project-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tauriel-project-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560427787875" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.tauriel.demo.redis_demo.dao.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea\tauriel-project-demo\src\main\resources\js" />
+      <recent name="D:\workspace_idea\tauriel-project-demo\src\test\java\com\tauriel" />
+      <recent name="D:\workspace_idea\tauriel-project-demo\files" />
+      <recent name="D:\workspace_idea\tauriel-project-demo\src\main\resources" />
+      <recent name="D:\workspace_idea\tauriel-project-demo\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea\tauriel-project-demo\src\main\java\com\tauriel\demo" />
+      <recent name="D:\workspace_idea\tauriel-project-demo\lib" />
+      <recent name="D:\workspace_idea\tauriel-project-demo\src\main\resources" />
+      <recent name="D:\workspace_idea\tauriel-project-demo\target\classes" />
+      <recent name="D:\workspace_idea\tauriel-project-demo\src\main\java\com\tauriel\demo\concurrent_demo\lock_demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tauriel.demo.es_sql_demo" />
+      <recent name="com.tauriel.demo.rabbitmq_demo" />
+      <recent name="com.tauriel.demo.web_crawlers_demo" />
+      <recent name="com.tauriel.demo.redis_demo.pub_sub.sub" />
+      <recent name="com.tauriel.demo.redis_demo.pub_sub.client" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tauriel.demo.es_sql_demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Music163UserInfo">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtDicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tauriel.demo.lucence_demo.analyzer.ExtDicTest" />
+      <module name="tauriel-project-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tauriel.demo.lucence_demo.analyzer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Music163SongComment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tauriel.demo.web_crawlers_demo.business.Music163SongComment" />
+      <module name="tauriel-project-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tauriel.demo.web_crawlers_demo.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Music163SongList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tauriel.demo.web_crawlers_demo.business.Music163SongList" />
+      <module name="tauriel-project-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tauriel.demo.web_crawlers_demo.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Music163UserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tauriel.demo.web_crawlers_demo.business.Music163UserInfo" />
+      <module name="tauriel-project-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tauriel.demo.web_crawlers_demo.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sax_Xml" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tauriel.demo.xml_demo.Sax_Xml" />
+      <module name="tauriel-project-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tauriel.demo.xml_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ExtDicTest" />
+      <item itemvalue="Application.Music163SongComment" />
+      <item itemvalue="Application.Sax_Xml" />
+      <item itemvalue="Application.Music163SongList" />
+      <item itemvalue="Application.Music163UserInfo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Music163UserInfo" />
+        <item itemvalue="Application.Music163SongList" />
+        <item itemvalue="Application.Sax_Xml" />
+        <item itemvalue="Application.Music163SongComment" />
+        <item itemvalue="Application.ExtDicTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\liumi\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2928c90-1245-47e0-b261-923c74bf8760" name="Default" comment="" />
+      <created>1539049540267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539049540267</updated>
+      <workItem from="1539049541602" duration="12244000" />
+      <workItem from="1539129686810" duration="12663000" />
+      <workItem from="1539216086160" duration="12181000" />
+      <workItem from="1539244967522" duration="7285000" />
+      <workItem from="1539303334893" duration="20925000" />
+      <workItem from="1539567091517" duration="688000" />
+      <workItem from="1539567832794" duration="19087000" />
+      <workItem from="1539649002247" duration="6527000" />
+      <workItem from="1539757169501" duration="5063000" />
+      <workItem from="1539822076553" duration="5407000" />
+      <workItem from="1539908539512" duration="2353000" />
+      <workItem from="1540001537883" duration="9224000" />
+      <workItem from="1543372662658" duration="18899000" />
+      <workItem from="1543457291952" duration="28930000" />
+      <workItem from="1543545013391" duration="12737000" />
+      <workItem from="1543761424706" duration="2946000" />
+      <workItem from="1543817195536" duration="2932000" />
+      <workItem from="1543889490635" duration="30466000" />
+      <workItem from="1543969518203" duration="31660000" />
+      <workItem from="1544061084132" duration="733000" />
+      <workItem from="1546394106928" duration="632000" />
+      <workItem from="1546567770663" duration="1887000" />
+      <workItem from="1546764117983" duration="5059000" />
+      <workItem from="1546773579080" duration="8019000" />
+      <workItem from="1546821476466" duration="1436000" />
+      <workItem from="1546822949964" duration="8533000" />
+      <workItem from="1546911537939" duration="595000" />
+      <workItem from="1546999209304" duration="1790000" />
+      <workItem from="1547080623978" duration="6216000" />
+      <workItem from="1547106513315" duration="6881000" />
+      <workItem from="1547166315077" duration="4384000" />
+      <workItem from="1547171779894" duration="35000" />
+      <workItem from="1547184547861" duration="11954000" />
+      <workItem from="1547381555831" duration="1773000" />
+      <workItem from="1547386286979" duration="183000" />
+      <workItem from="1547386590408" duration="4057000" />
+      <workItem from="1547435475240" duration="1665000" />
+      <workItem from="1547453872370" duration="676000" />
+      <workItem from="1547457311119" duration="56000" />
+      <workItem from="1547518769946" duration="6688000" />
+      <workItem from="1547533854918" duration="2219000" />
+      <workItem from="1547537341463" duration="8030000" />
+      <workItem from="1547604395584" duration="613000" />
+      <workItem from="1548318928789" duration="2309000" />
+      <workItem from="1548381208142" duration="105000" />
+      <workItem from="1548382407948" duration="3445000" />
+      <workItem from="1548641351027" duration="1207000" />
+      <workItem from="1548727043149" duration="1832000" />
+      <workItem from="1548813431299" duration="1319000" />
+      <workItem from="1548837600203" duration="1851000" />
+      <workItem from="1551172055829" duration="618000" />
+      <workItem from="1551172728917" duration="3963000" />
+      <workItem from="1551178759865" duration="3689000" />
+      <workItem from="1551234989072" duration="591000" />
+      <workItem from="1551236048595" duration="17051000" />
+      <workItem from="1551319029164" duration="1200000" />
+      <workItem from="1551405058533" duration="1913000" />
+      <workItem from="1551672413269" duration="3570000" />
+      <workItem from="1551757893465" duration="5942000" />
+      <workItem from="1552297289615" duration="12443000" />
+      <workItem from="1552363014279" duration="8053000" />
+      <workItem from="1552374782343" duration="1881000" />
+      <workItem from="1552376678934" duration="2594000" />
+      <workItem from="1552379289025" duration="533000" />
+      <workItem from="1552379831088" duration="840000" />
+      <workItem from="1552380685078" duration="18518000" />
+      <workItem from="1552444610282" duration="16748000" />
+      <workItem from="1552528424738" duration="23651000" />
+      <workItem from="1552615987308" duration="12316000" />
+      <workItem from="1552981293978" duration="796000" />
+      <workItem from="1552982620003" duration="186000" />
+      <workItem from="1552982896288" duration="3409000" />
+      <workItem from="1553175241817" duration="318000" />
+      <workItem from="1553239425874" duration="14938000" />
+      <workItem from="1553430280775" duration="11630000" />
+      <workItem from="1553493770907" duration="641000" />
+      <workItem from="1553742159973" duration="2473000" />
+      <workItem from="1554214742663" duration="104000" />
+      <workItem from="1554275678934" duration="2386000" />
+      <workItem from="1555810349779" duration="7525000" />
+      <workItem from="1556030090967" duration="4000" />
+      <workItem from="1556340545974" duration="1942000" />
+      <workItem from="1556943751019" duration="17273000" />
+      <workItem from="1558147788506" duration="738000" />
+      <workItem from="1558838577990" duration="842000" />
+      <workItem from="1559960518939" duration="9105000" />
+      <workItem from="1560163258519" duration="3876000" />
+      <workItem from="1560218061557" duration="9150000" />
+      <workItem from="1560304591804" duration="14919000" />
+      <workItem from="1560391457160" duration="21013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 46m 27s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 47m 02s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 47m 32s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 50m 03s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 50m 48s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 51m 32s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 56m 19s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 56m 45s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 58m 57s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTest_Kerberos_HikariCP_test - 2019.03.25 at 13h 59m 07s.xml">
+      <configuration name="JdbcTest_Kerberos_HikariCP.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="597781000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.211126" />
+      <window_info id="Structure" order="1" weight="0.406639" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.46534654" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48873392" weight="0.37906647" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.11331445" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.24715263" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50469166" side_tool="true" weight="0.28854313" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.48793566" weight="0.28854313" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.32915717" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4953083" weight="0.28854313" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.3947721" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.26940134" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32886267" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Data View" order="8" weight="0.3299356" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.21581769" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.15/druid-1.0.15-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java</url>
+          <line>1430</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/EsApiTest.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/EsApiTest.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.15/druid-1.0.15-sources.jar!/com/alibaba/druid/pool/DruidPooledStatement.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/MyElasticSearchDruidDataSource.java</url>
+          <line>2693</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_SSL_Druid.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_SSL_Druid.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_Kerberos_Druid.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_Kerberos_Druid.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_Kerberos_Druid.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_Kerberos_Druid.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/es_sql_demo/JdbcTest_Kerberos_Druid.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/elasticsearch-sql-6.1.3.0.jar!/com/alibaba/druid/pool/ElasticSearchConnection.class</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/HikariCP-3.3.1.jar!/com/zaxxer/hikari/HikariDataSource.class</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/HikariCP-3.3.1.jar!/com/zaxxer/hikari/pool/HikariPool.class</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/HikariCP-3.3.1.jar!/com/zaxxer/hikari/pool/HikariPool.class</url>
+          <line>387</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/HikariCP-3.3.1.jar!/com/zaxxer/hikari/pool/HikariPool.class</url>
+          <line>316</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/xml_demo/Sax_Xml.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/xml_demo/Sax_Xml.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar://$MAVEN_REPOSITORY$/com/floragunn/search-guard-ssl/6.1.3-25.4/search-guard-ssl-6.1.3-25.4.jar!/com/floragunn/searchguard/ssl/util/SSLConfigConstants.class</url>
+          <line>32</line>
+          <properties field="SEARCHGUARD_SSL_TRANSPORT_ENFORCE_HOSTNAME_VERIFICATION" class="com.floragunn.searchguard.ssl.util.SSLConfigConstants" />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this.clazz" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Object_Byte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoObjectByteImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Pub_Sub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/tmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar!/org/springframework/data/redis/core/DefaultHashOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Hash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoHashImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="181" column="26" selection-start-line="181" selection-start-column="26" selection-end-line="181" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/HashTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="106" column="44" lean-forward="true" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar!/org/springframework/data/redis/core/DefaultValueOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="4665" column="29" selection-start-line="4665" selection-start-column="29" selection-end-line="4665" selection-end-column="29" />
+          <folding>
+            <element signature="e#183147#183148#0" expanded="true" />
+            <element signature="e#183191#183192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar!/org/springframework/data/redis/connection/RedisSetCommands.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar!/org/springframework/data/redis/core/DefaultSetOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="130" column="15" selection-start-line="130" selection-start-column="15" selection-end-line="130" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoSetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3750">
+          <caret line="239" column="51" selection-start-line="239" selection-start-column="51" selection-end-line="239" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar!/org/springframework/data/redis/core/DefaultListOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="198" column="39" lean-forward="true" selection-start-line="198" selection-start-column="39" selection-end-line="198" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoStringImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="337" selection-start-line="337" selection-end-line="337" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="359" selection-start-line="359" selection-end-line="359" />
+          <folding>
+            <element signature="e#2582#2583#0" expanded="true" />
+            <element signature="e#2652#2653#0" expanded="true" />
+            <element signature="e#2945#2946#0" expanded="true" />
+            <element signature="e#3016#3017#0" expanded="true" />
+            <element signature="e#3299#3300#0" expanded="true" />
+            <element signature="e#3378#3379#0" expanded="true" />
+            <element signature="e#3538#3539#0" expanded="true" />
+            <element signature="e#3618#3619#0" expanded="true" />
+            <element signature="e#4653#4654#0" expanded="true" />
+            <element signature="e#4724#4725#0" expanded="true" />
+            <element signature="e#4865#4866#0" expanded="true" />
+            <element signature="e#4931#4932#0" expanded="true" />
+            <element signature="e#8642#8658#0" expanded="true" />
+            <element signature="e#10123#10139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/test/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="129" column="8" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar!/org/springframework/data/redis/connection/jedis/JedisClusterConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="138" column="16" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="590" column="38" selection-start-line="590" selection-start-column="38" selection-end-line="590" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_Key.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoKeyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256">
+          <caret line="286" column="31" selection-start-line="286" selection-start-column="31" selection-end-line="286" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar!/org/springframework/data/redis/core/ZSetOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RedisDemo/src/main/java/com/yoyosys/service/impl/RedisDaoZsetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE-sources.jar!/org/springframework/data/redis/core/ZSetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultTypedTuple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisZSetCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1.jar!/redis/clients/jedis/BinaryJedisCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="1244" column="42" selection-start-line="1244" selection-start-column="42" selection-end-line="1244" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1.jar!/redis/clients/jedis/BinaryJedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="970" column="16" selection-start-line="970" selection-start-column="16" selection-end-line="970" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE-sources.jar!/org/springframework/data/redis/connection/jedis/JedisClusterConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="2122" column="35" lean-forward="true" selection-start-line="2122" selection-start-column="35" selection-end-line="2122" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultZSetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/impl/RedisDaoZSetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="331" column="12" selection-start-line="331" selection-start-column="12" selection-end-line="331" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/redis_demo/dao/RedisDao_ZSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-940">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163_Ajax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/PlayListResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/CommonBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/PlayListAndUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163SongList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/Music163UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/Creator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/bean/Playlist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/core_8382a9a6e7821140e028c01733ddc5e2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1913">
+          <caret line="31782" column="4" selection-start-line="31782" selection-start-column="4" selection-end-line="31782" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/MusicUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tauriel/demo/web_crawlers_demo/business/MusicParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="117" selection-start-line="5" selection-start-column="117" selection-end-line="5" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|tauriel-project-demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
