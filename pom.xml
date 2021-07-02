@@ -18,7 +18,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <springframework.version>5.0.1.RELEASE</springframework.version>
     <lucene.version>7.1.0</lucene.version>
-    <elasticsearch.version>6.1.3</elasticsearch.version>
+    <elasticsearch.version>6.8.15</elasticsearch.version>
     <essql.version>6.3.0.0</essql.version>
     <hutool.version>2.16.0</hutool.version>
     <quartz.version>2.3.0</quartz.version>
